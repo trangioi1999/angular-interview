@@ -107,7 +107,7 @@
 |83| [Ba giai đoạn của AOT là gì?](#ba-giai-doan-cua-aot-la-gi)|
 |84| [Có thể dùng arrow function trong AOT không?](#co-the-dung-arrow-function-trong-aot-khong)|
 |85| [Mục đích của file metadata json là gì?](#muc-dich-cua-file-metadata-json-la-gi)|
-|86| [Có thể dùng mọi tính năng javascript cho cú pháp biểu thức trong AOT không?] (#co-the-dung-moi-tinh-nang-javascript-cho-cu-phap-bieu-thuc-trong-aot-khong)|
+|87| [Có thể dùng mọi tính năng javascript cho cú pháp biểu thức trong AOT không?](#co-the-dung-moi-tinh-nang-javascript-cho-cu-phap-bieu-thuc-trong-aot-khong)|
 |87| [Folding là gì?](#folding-la-gi)|
 |88| [Macro là gì?](#macro-la-gi)|
 |89| [Ví dụ về một số lỗi metadata?](#vi-du-ve-mot-so-loi-metadata)|
@@ -293,20 +293,18 @@
 |269| [Cách đặt ngFor và ngIf trên cùng một phần tử?](#cach-dat-ngfor-va-ngif-tren-cung-mot-phan-tu)|
 |270| [Thuộc tính host trong css là gì?](#thuoc-tinh-host-trong-css-la-gi)|
 |271| [Cách lấy route hiện tại?](#cach-lay-route-hien-tai)|
-(#what-is-the-benefit-of-automatic-inlining-of-fonts)|
 |272| [Component Test Harnesses là gì?](#component-test-harnesses-la-gi)|
 |273| [Lợi ích của tự động inline font?](#loi-ich-cua-tu-dong-inline-font)|
 |274| [Content projection là gì?](#content-projection-la-gi)|
 |275| [Ng-content là gì và mục đích của nó?](#ng-content-la-gi-va-muc-dich-cua-no)|
 |276| [Standalone component là gì?](#standalone-component-la-gi)|
-|277| [How to create a standalone component uing CLI command?]|
- 277 | [Làm cách nào để tạo một component độc lập bằng lệnh CLI?](#lam-cach-nao-de-tao-mot-component-doc-lap-bang-lenh-cli) |
-| 278 | [Làm cách nào để tạo một component độc lập một cách thủ công?](#lam-cach-nao-de-tao-mot-component-doc-lap-mot-cach-thu-cong) |
-| 279 | [Hydration là gì?](#hydration-la-gi) |
-| 280 | [Angular Signals là gì?](#angular-signals-la-gi) |
-| 281 | [Giải thích Angular Signals kèm ví dụ](#giai-thich-angular-signals-kem-vi-du) |
-| 282 | [Route Parameters là gì? Bạn có thể giải thích từng loại không?](#route-parameters-la-gi-ban-co-the-giai-thich-tung-loai-khong) |
-| 283 | [](#) |
+|277| [Làm cách nào để tạo một component độc lập bằng lệnh CLI?](#lam-cach-nao-de-tao-mot-component-doc-lap-bang-lenh-cli) |
+|278| [Làm cách nào để tạo một component độc lập một cách thủ công?](#lam-cach-nao-de-tao-mot-component-doc-lap-mot-cach-thu-cong) |
+|279| [Hydration là gì?](#hydration-la-gi) |
+|280| [Angular Signals là gì?](#angular-signals-la-gi) |
+|281| [Giải thích Angular Signals kèm ví dụ](#giai-thich-angular-signals-kem-vi-du) |
+|282| [Route Parameters là gì? Bạn có thể giải thích từng loại không?](#route-parameters-la-gi-ban-co-the-giai-thich-tung-loai-khong) |
+|283| [](#) |
 
 
 
