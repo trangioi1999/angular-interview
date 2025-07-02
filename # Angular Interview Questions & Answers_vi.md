@@ -107,7 +107,7 @@
 |83| [Ba giai đoạn của AOT là gì?](#ba-giai-doan-cua-aot-la-gi)|
 |84| [Có thể dùng arrow function trong AOT không?](#co-the-dung-arrow-function-trong-aot-khong)|
 |85| [Mục đích của file metadata json là gì?](#muc-dich-cua-file-metadata-json-la-gi)|
-|86| [Có thể dùng mọi tính năng javascript cho cú pháp biểu thức trong AOT không?](#co-the-dung-moi-tinh-nang-javascript-cho-cu-phap-bieu-thuc-trong-aot-khong)|
+|86| [Có thể dùng mọi tính năng javascript cho cú pháp biểu thức trong AOT không?] (#co-the-dung-moi-tinh-nang-javascript-cho-cu-phap-bieu-thuc-trong-aot-khong)|
 |87| [Folding là gì?](#folding-la-gi)|
 |88| [Macro là gì?](#macro-la-gi)|
 |89| [Ví dụ về một số lỗi metadata?](#vi-du-ve-mot-so-loi-metadata)|
@@ -314,6 +314,8 @@
 
    Angular là một **nền tảng front-end mã nguồn mở dựa trên TypeScript** giúp dễ dàng xây dựng các ứng dụng web, di động và máy tính để bàn. Các tính năng chính của framework này bao gồm template khai báo, dependency injection, công cụ end to end giúp việc phát triển ứng dụng dễ dàng hơn.
 
+   **[⬆ Back to Top](#table-of-contents)**
+
 2. ### Sự khác biệt giữa AngularJS và Angular là gì?
 
    AngularJS (phiên bản 1.x) là một framework JavaScript, trong khi Angular (phiên bản 2+) là một bản viết lại hoàn toàn của AngularJS sử dụng TypeScript, cung cấp hiệu suất tốt hơn, hỗ trợ di động, tính module hóa và kiến trúc hiện đại hơn.
@@ -327,6 +329,8 @@
    | Dựa trên khái niệm controllers           | Tiếp cận dựa trên component UI               |
    | Không hỗ trợ nền tảng di động            | Hỗ trợ đầy đủ nền tảng di động               |
    | Khó xây dựng ứng dụng thân thiện với SEO | Dễ dàng xây dựng ứng dụng thân thiện với SEO |
+
+   **[⬆ Back to Top](#muc-luc)**
 
 3. ### TypeScript là gì?
 
@@ -351,10 +355,14 @@
 
    Phương thức greeter chỉ cho phép đối số kiểu string.
 
+   **[⬆ Back to Top](#muc-luc)**
+
 4. ### Vẽ sơ đồ kiến trúc của Angular?
 
    Các khối xây dựng chính của một ứng dụng Angular được thể hiện trong sơ đồ dưới đây:-
    ![ScreenShot](images/architecture.png)
+
+   **[⬆ Back to Top](#muc-luc)**
 
 5. ### Các thành phần chính của Angular là gì?
 
@@ -365,6 +373,8 @@
    3. **Templates:** Đại diện cho các view của ứng dụng Angular.
    4. **Services:** Được sử dụng để tạo các component có thể được chia sẻ trong toàn bộ ứng dụng.
    5. **Metadata:** Có thể được sử dụng để thêm dữ liệu vào một Angular class.
+
+   **[⬆ Back to Top](#muc-luc)**
 
 6. ### Directives là gì?
 
